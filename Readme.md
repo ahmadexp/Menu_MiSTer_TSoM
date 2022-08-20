@@ -1,3 +1,5 @@
+# WORK IN PROGRESS
+
 # Startup core for MiSTer
 
 * **ESC** - switch to options
