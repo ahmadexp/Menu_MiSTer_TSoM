@@ -14,7 +14,7 @@ set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to ADC_SDO
 set_location_assignment PIN_Y19 -to ADC_CONVST
 set_location_assignment PIN_AA20 -to ADC_SCK
 set_location_assignment PIN_AA13 -to ADC_SDI
-set_location_assignment PIN_Y13 -to ADC_SDO
+set_location_assignment PIN_AD4 -to ADC_SDO
 
 #============================================================
 # ARDUINO
